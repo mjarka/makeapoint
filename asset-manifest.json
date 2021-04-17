@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/makeapoint/static/css/main.ae00672a.chunk.css",
-    "main.js": "/makeapoint/static/js/main.02916457.chunk.js",
-    "main.js.map": "/makeapoint/static/js/main.02916457.chunk.js.map",
-    "runtime-main.js": "/makeapoint/static/js/runtime-main.5e6f742b.js",
-    "runtime-main.js.map": "/makeapoint/static/js/runtime-main.5e6f742b.js.map",
-    "static/js/2.0a926c5c.chunk.js": "/makeapoint/static/js/2.0a926c5c.chunk.js",
-    "static/js/2.0a926c5c.chunk.js.map": "/makeapoint/static/js/2.0a926c5c.chunk.js.map",
-    "static/js/3.c1f749f8.chunk.js": "/makeapoint/static/js/3.c1f749f8.chunk.js",
-    "static/js/3.c1f749f8.chunk.js.map": "/makeapoint/static/js/3.c1f749f8.chunk.js.map",
-    "index.html": "/makeapoint/index.html",
-    "static/css/main.ae00672a.chunk.css.map": "/makeapoint/static/css/main.ae00672a.chunk.css.map",
-    "static/js/2.0a926c5c.chunk.js.LICENSE.txt": "/makeapoint/static/js/2.0a926c5c.chunk.js.LICENSE.txt",
-    "static/media/logo.a6926b67.svg": "/makeapoint/static/media/logo.a6926b67.svg"
+    "main.css": "/mjarka/makeapoint/static/css/main.ae00672a.chunk.css",
+    "main.js": "/mjarka/makeapoint/static/js/main.02916457.chunk.js",
+    "main.js.map": "/mjarka/makeapoint/static/js/main.02916457.chunk.js.map",
+    "runtime-main.js": "/mjarka/makeapoint/static/js/runtime-main.0510b034.js",
+    "runtime-main.js.map": "/mjarka/makeapoint/static/js/runtime-main.0510b034.js.map",
+    "static/js/2.0a926c5c.chunk.js": "/mjarka/makeapoint/static/js/2.0a926c5c.chunk.js",
+    "static/js/2.0a926c5c.chunk.js.map": "/mjarka/makeapoint/static/js/2.0a926c5c.chunk.js.map",
+    "static/js/3.c1f749f8.chunk.js": "/mjarka/makeapoint/static/js/3.c1f749f8.chunk.js",
+    "static/js/3.c1f749f8.chunk.js.map": "/mjarka/makeapoint/static/js/3.c1f749f8.chunk.js.map",
+    "index.html": "/mjarka/makeapoint/index.html",
+    "static/css/main.ae00672a.chunk.css.map": "/mjarka/makeapoint/static/css/main.ae00672a.chunk.css.map",
+    "static/js/2.0a926c5c.chunk.js.LICENSE.txt": "/mjarka/makeapoint/static/js/2.0a926c5c.chunk.js.LICENSE.txt",
+    "static/media/logo.a6926b67.svg": "/mjarka/makeapoint/static/media/logo.a6926b67.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e6f742b.js",
+    "static/js/runtime-main.0510b034.js",
     "static/js/2.0a926c5c.chunk.js",
     "static/css/main.ae00672a.chunk.css",
     "static/js/main.02916457.chunk.js"
